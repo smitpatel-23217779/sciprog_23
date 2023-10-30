@@ -1,0 +1,2 @@
+This is the code for practical_3. To compile type:
+gcc -o trap trap_area.c -lm
