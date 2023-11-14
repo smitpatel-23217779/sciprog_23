@@ -1,0 +1,5 @@
+
+This is the program for printing a fibonacci series and to calculate the hyperbolic arc tangent.
+To compile type:
+gcc -o fib fibonacci.c -Wall
+gcc -o arct arct.c -lm -Wall
