@@ -1,0 +1,5 @@
+To compile write:
+make
+
+to remove the object files (for eg: main.o, matrixmul.o):
+make clean
