@@ -1,0 +1,7 @@
+This C program calculates the greatest common divisor (GCD) of two positive integers using both iteration and recursion.
+
+To compile:
+gcc -o gcd gcd.c -Wall
+
+To run the compiled executable:
+./gcd
