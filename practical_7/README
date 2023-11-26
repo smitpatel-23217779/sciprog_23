@@ -1,0 +1,11 @@
+There are two C programs:
+1) Estimates the value of 'e' using the Taylor series expansion for e^x 
+2) Demonstrates basic array manipulation operations.
+
+To compile write:
+1) gcc -o finde finde.c -lm -Wall
+2) gcc -o dynaalloc dynamicalloc.c -Wall
+
+To execute:
+1) ./finde
+2) ./dynaalloc
